@@ -5,5 +5,6 @@ please read here https://en.wikipedia.org/wiki/Feature_scaling. I have used the 
 
 -Build an SVM classifier for classifying label “2”(positive) vs the rest (negative). 
 
--Compare the accuracy, F1-score, AUC on the testing data for using each preprocessed
-data and the raw data.
+-Build an SVM classifier for classifying label “5". Label 5 is a case of imbalanced data.
+
+-Compare the accuracy, F1-score, AUC on the testing data for using each preprocessed data and the raw data.
